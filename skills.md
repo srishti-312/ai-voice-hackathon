@@ -1,4 +1,4 @@
-# Project: VANI SAATH - Seller And buyer Across Touchpoints, Held together
+# VANI SAATH - Seller And buyer Across Touchpoints, Held together
 
 **Org-Id:** 01a11058-8b0c-77c7-9674-390686a508c7
 
